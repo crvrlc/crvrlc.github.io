@@ -1,0 +1,41 @@
+h1 {
+	color: #def2f1;
+	margin: 50px 100px 10px 100px;
+	font-family: 'Arvo';
+	font-size: 44px;
+	font-weight: 700;
+
+}
+
+h1.head {
+	font-family: Georgia;
+	color: #feffff;
+	font-size: 500%;
+	font-style: italic;
+	text-align: center;
+}
+
+p{
+	color: #17252a;
+	font-family: "Poppins";
+	font-size: 20px;
+	text-align: justify;
+	margin: 30px 100px 60px 100px;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  background-color: #3aafa9;  
+}
+
+.bg {
+  background-image: url("https://i.pinimg.com/originals/66/3b/81/663b811a89f793a7a3d3cdeecbaf8cc3.png");
+
+  height: 73%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
