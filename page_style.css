@@ -39,3 +39,19 @@ body, html {
   background-size: cover;
 }
 
+a:link {
+  color: #17252a;
+}
+
+a:visited {
+  color: #002176;
+}
+
+a:hover {
+  color: #faf4c8;
+}
+
+a:active {
+  color: green;
+}
+
